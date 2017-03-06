@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "nuka-carousel": "^2.0.4",
     "rc-slider": "^6.1.2",
     "react": "^15.4.2",
     "react-clslide": "0.0.1",
